@@ -11,7 +11,8 @@ Here are some examples of how to use SVMKit in various scenarios:
 ## Examples
 
 - Setting up a Solana Permissioned Environment [(SPE) on AWS](https://github.com/abklabs/svmkit-examples/tree/main/aws-network-spe-py)
-- Setting up a Validator to join [testnet](https://github.com/abklabs/pulumi-svmkit/tree/main/examples) - this is an example for developers hacking on the codebase - we'll add an example for node operators soon. 
+- Setting up a Validator to join [testnet](https://github.com/abklabs/pulumi-svmkit/tree/main/examples) - this is an example for developers hacking on the codebase - we'll add an example for node operators soon.
+- Setting up an SPE with a custom [GRPC stream powered by vixen](https://github.com/jmininger/svmkit-yellowstone-grpc-demo/tree/master)
 
 ## Useful Links
 Until this repository is further populated, we recommend checking out:
